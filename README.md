@@ -2,24 +2,6 @@
 
 ---
 
-```markdown
-<h1 align="center">🐍 Data Structures & Algorithms in Python</h1>
-
-<p align="center">
-  <b>A comprehensive, hands-on collection of Data Structures and Algorithms implemented in pure Python.</b><br>
-  Built for learners, interview preparation, and competitive programming.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-Python%203.x-blue?style=for-the-badge&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/Topics-23%2B-success?style=for-the-badge" alt="Topics">
-  <img src="https://img.shields.io/badge/Files-180%2B-orange?style=for-the-badge" alt="Files">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
-  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" alt="PRs Welcome">
-</p>
-```
----
-
 ## 📖 Overview
 
 This repository is a **structured, self-paced learning path** for mastering Data Structures and Algorithms using Python. Every topic is organized into its own module with clean, well-commented, and runnable code.
