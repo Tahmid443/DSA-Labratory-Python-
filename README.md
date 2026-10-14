@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
   <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" alt="PRs Welcome">
 </p>
-
+```
 ---
 
 ## 📖 Overview
@@ -76,7 +76,6 @@ DSA-in-Python/
 └── 23_Competitive_Programming/    # Templates & contest solutions
 ```
 
-Each module contains its own `README.md` explaining the topic, along with focused `.py` files.
 
 ---
 
